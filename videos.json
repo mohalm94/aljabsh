@@ -503,11 +503,40 @@
       "youtubeId": "mPouMrg0iBo",
       "thumbnail": "https://img.youtube.com/vi/mPouMrg0iBo/hqdefault.jpg",
       "description": "فيديو من قناة rod6"
-    },{
+    },
+    {
       "id": "73",
       "title": "يوميات بشار الاسد 73",
       "youtubeId": "-zZSZ7HIovI",
       "thumbnail": "https://img.youtube.com/vi/-zZSZ7HIovI/hqdefault.jpg",
+      "description": "فيديو من قناة rod6"
+    },
+    {
+      "id": "74",
+      "title": "يوميات بشار الاسد 74",
+      "youtubeId": "tbxkArQ0oOM",
+      "thumbnail": "https://img.youtube.com/vi/tbxkArQ0oOM/hqdefault.jpg",
+      "description": "فيديو من قناة rod6"
+    },
+    {
+      "id": "75",
+      "title": "يوميات بشار الاسد 75",
+      "youtubeId": "ndrGWgar1NE",
+      "thumbnail": "https://img.youtube.com/vi/ndrGWgar1NE/hqdefault.jpg",
+      "description": "فيديو من قناة rod6"
+    },
+    {
+      "id": "76",
+      "title": "يوميات بشار الاسد 76",
+      "youtubeId": "h-El38Hr7EM",
+      "thumbnail": "https://img.youtube.com/vi/h-El38Hr7EM/hqdefault.jpg",
+      "description": "فيديو من قناة rod6"
+    },
+    {
+      "id": "77",
+      "title": "يوميات بشار الاسد 77", 
+      "youtubeId": "qVG5BdgQsZo",
+      "thumbnail": "https://img.youtube.com/vi/qVG5BdgQsZo/hqdefault.jpg",
       "description": "فيديو من قناة rod6"
     }
   ]
